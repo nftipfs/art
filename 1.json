@@ -1,0 +1,30 @@
+{
+  "name": "Bots S II #334",
+  "symbol": "BSII",
+  "description": "Upgraded. Advanced. Elevated. SII Bots offering automated trading functions and custom solutions.",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/nftipfs/art/main/1.webp",
+  "external_url": "BSII",
+  "edition": 130,
+  "attributes": [
+    {
+      "trait_type": "Rare",
+      "value": "True "
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "130.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "RKuzrFw4qcuvRz7VSnbrNDHQYjDmBrB8tCMTGMfCHzu",
+        "share": 100
+      }
+    ]
+  }
+}
